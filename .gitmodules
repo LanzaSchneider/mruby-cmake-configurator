@@ -1,0 +1,3 @@
+[submodule "bundled/mruby"]
+	path = bundled/mruby
+	url = https://github.com/mruby/mruby.git
